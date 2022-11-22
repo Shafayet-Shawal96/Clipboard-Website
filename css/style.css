@@ -511,6 +511,11 @@ h3 {
   margin-bottom: 5rem;
 }
 
+.my-44 {
+  margin-top: 11rem;
+  margin-bottom: 11rem;
+}
+
 .mb-40 {
   margin-bottom: 10rem;
 }
@@ -553,6 +558,10 @@ h3 {
 
 .max-w-md {
   max-width: 28rem;
+}
+
+.max-w-6xl {
+  max-width: 72rem;
 }
 
 .flex-col {
